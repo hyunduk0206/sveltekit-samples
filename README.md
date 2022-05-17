@@ -9,3 +9,5 @@ sveltekit-board: https://www.youtube.com/playlist?list=PL4cUxeGkcC9hpM9ARM59Ve3j
 sveltekit-moviedb: https://youtu.be/ydR_M0fw9Xc
 
 sveltekit-todo: https://www.youtube.com/watch?v=OUzaUJ3gEug
+
+sveltekit-socket-io: https://joyofcode.xyz/using-websockets-with-sveltekit
