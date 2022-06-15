@@ -1,3 +1,9 @@
+### Reference code
+twitter
+- https://joyofcode.xyz/sveltekit-for-beginners
+- https://github.com/JoysOfCode/sveltekit-auth-cookies
+- https://www.youtube.com/watch?v=bLBHecY4-ak&list=PLA9WiRZ-IS_zXZZyW4qfj0akvOAtk6MFS&index=1
+
 ### Svelte
 svelte-poll: https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO
 
