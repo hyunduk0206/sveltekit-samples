@@ -1,7 +1,7 @@
 ### Reference code
 twitter
 - https://joyofcode.xyz/sveltekit-for-beginners
-- https://github.com/JoysOfCode/sveltekit-auth-cookies
+- https://github.com/JoysOfCode/sveltekit-for-beginners
 - https://www.youtube.com/watch?v=bLBHecY4-ak&list=PLA9WiRZ-IS_zXZZyW4qfj0akvOAtk6MFS&index=1
 
 ### Svelte
